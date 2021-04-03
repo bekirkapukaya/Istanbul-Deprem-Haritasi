@@ -1,11 +1,12 @@
-import React from 'react'
+import React from 'react';
+import Map from './Map';
 
 const App = () => {
   return (
-    <div>
-      
-    </div>
-  )
-}
+    <>
+      <Map />
+    </>
+  );
+};
 
-export default App
+export default App;
