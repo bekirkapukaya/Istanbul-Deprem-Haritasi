@@ -1,13 +1,11 @@
 import { GET_POINTS } from './actionTypes';
-import { getPointsApi } from '../../api';
+import apiData from '../../api';
 
 export const getPoints = () => async (dispatch) => {
   try {
-    const { data } = await getPointsApi();
-    console.log(`action ${data}`);
     dispatch({
       type: GET_POINTS,
-      payload: data,
+      payload: apiData,
     });
   } catch (err) {
     console.log(err);
