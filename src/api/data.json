@@ -4,7 +4,7 @@
     "Time": "2020-02-04T10:17:09.4Z",
     "Latitude": "38.98",
     "Longitude": "27.86",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -14,7 +14,7 @@
     "Time": "2020-02-04T08:43:16.0Z",
     "Latitude": "38.98",
     "Longitude": "27.87",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "4.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -24,7 +24,7 @@
     "Time": "2020-02-04T06:13:29.2Z",
     "Latitude": "38.42",
     "Longitude": "25.51",
-    "Depth/km": "15",
+    "DepthKm": "15",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "AEGEAN SEA"
@@ -34,7 +34,7 @@
     "Time": "2020-02-04T03:42:21.5Z",
     "Latitude": "38.4",
     "Longitude": "25.53",
-    "Depth/km": "17",
+    "DepthKm": "17",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "AEGEAN SEA"
@@ -44,7 +44,7 @@
     "Time": "2020-02-04T03:14:45.4Z",
     "Latitude": "39.08",
     "Longitude": "27.83",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -54,7 +54,7 @@
     "Time": "2020-02-04T02:38:21.7Z",
     "Latitude": "38.98",
     "Longitude": "27.85",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -64,7 +64,7 @@
     "Time": "2020-02-04T01:30:09.6Z",
     "Latitude": "39",
     "Longitude": "27.86",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -74,7 +74,7 @@
     "Time": "2020-02-04T01:28:51.1Z",
     "Latitude": "39",
     "Longitude": "27.85",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -84,7 +84,7 @@
     "Time": "2020-02-04T01:27:28.9Z",
     "Latitude": "39",
     "Longitude": "27.86",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "4",
     "EventLocationName": "WESTERN TURKEY"
@@ -94,7 +94,7 @@
     "Time": "2020-02-04T00:06:40.0Z",
     "Latitude": "38.99",
     "Longitude": "27.86",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -104,7 +104,7 @@
     "Time": "2020-02-03T21:18:04.2Z",
     "Latitude": "39",
     "Longitude": "27.85",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.9",
     "EventLocationName": "WESTERN TURKEY"
@@ -114,7 +114,7 @@
     "Time": "2020-02-03T18:44:59.8Z",
     "Latitude": "38.99",
     "Longitude": "27.86",
-    "Depth/km": "4",
+    "DepthKm": "4",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -124,7 +124,7 @@
     "Time": "2020-02-03T17:16:44.2Z",
     "Latitude": "38.99",
     "Longitude": "27.86",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -134,7 +134,7 @@
     "Time": "2020-02-03T07:58:04.7Z",
     "Latitude": "38.99",
     "Longitude": "27.85",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -144,7 +144,7 @@
     "Time": "2020-02-03T04:41:01.5Z",
     "Latitude": "38.99",
     "Longitude": "27.85",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -154,7 +154,7 @@
     "Time": "2020-02-03T04:03:19.7Z",
     "Latitude": "38.99",
     "Longitude": "27.86",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -164,7 +164,7 @@
     "Time": "2020-02-02T23:40:38.4Z",
     "Latitude": "38.99",
     "Longitude": "27.86",
-    "Depth/km": "4",
+    "DepthKm": "4",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -174,7 +174,7 @@
     "Time": "2020-02-02T21:02:32.6Z",
     "Latitude": "38.99",
     "Longitude": "27.86",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.8",
     "EventLocationName": "WESTERN TURKEY"
@@ -184,7 +184,7 @@
     "Time": "2020-02-02T19:01:50.4Z",
     "Latitude": "38.98",
     "Longitude": "27.87",
-    "Depth/km": "4",
+    "DepthKm": "4",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -194,7 +194,7 @@
     "Time": "2020-02-02T11:36:40.6Z",
     "Latitude": "39.08",
     "Longitude": "27.87",
-    "Depth/km": "14",
+    "DepthKm": "14",
     "MagType": "mb",
     "Magnitude": "4.6",
     "EventLocationName": "WESTERN TURKEY"
@@ -204,7 +204,7 @@
     "Time": "2020-02-02T06:26:13.2Z",
     "Latitude": "39.09",
     "Longitude": "27.82",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -214,7 +214,7 @@
     "Time": "2020-02-02T03:25:43.1Z",
     "Latitude": "39.08",
     "Longitude": "27.82",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "4",
     "EventLocationName": "WESTERN TURKEY"
@@ -224,7 +224,7 @@
     "Time": "2020-02-02T03:17:55.1Z",
     "Latitude": "39.07",
     "Longitude": "27.82",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -234,7 +234,7 @@
     "Time": "2020-02-02T00:57:43.9Z",
     "Latitude": "40.86",
     "Longitude": "28.19",
-    "Depth/km": "16",
+    "DepthKm": "16",
     "MagType": "ml",
     "Magnitude": "3.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -244,7 +244,7 @@
     "Time": "2020-02-02T00:34:06.9Z",
     "Latitude": "39",
     "Longitude": "27.85",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -254,7 +254,7 @@
     "Time": "2020-02-02T00:23:47.8Z",
     "Latitude": "39",
     "Longitude": "27.85",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "4.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -264,7 +264,7 @@
     "Time": "2020-02-01T17:34:04.7Z",
     "Latitude": "38.96",
     "Longitude": "25.52",
-    "Depth/km": "19",
+    "DepthKm": "19",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "AEGEAN SEA"
@@ -274,7 +274,7 @@
     "Time": "2020-02-01T12:46:05.0Z",
     "Latitude": "39.08",
     "Longitude": "27.83",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -284,7 +284,7 @@
     "Time": "2020-02-01T11:53:34.5Z",
     "Latitude": "39.08",
     "Longitude": "27.83",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -294,7 +294,7 @@
     "Time": "2020-02-01T10:50:10.0Z",
     "Latitude": "38.98",
     "Longitude": "25.51",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "AEGEAN SEA"
@@ -304,7 +304,7 @@
     "Time": "2020-01-31T08:23:33.4Z",
     "Latitude": "39.02",
     "Longitude": "27.84",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -314,7 +314,7 @@
     "Time": "2020-01-30T21:27:39.9Z",
     "Latitude": "39.02",
     "Longitude": "27.82",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -324,7 +324,7 @@
     "Time": "2020-01-30T14:03:55.1Z",
     "Latitude": "39.09",
     "Longitude": "27.83",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "4",
     "EventLocationName": "WESTERN TURKEY"
@@ -334,7 +334,7 @@
     "Time": "2020-01-30T13:52:48.8Z",
     "Latitude": "39.11",
     "Longitude": "27.83",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -344,7 +344,7 @@
     "Time": "2020-01-30T05:36:10.7Z",
     "Latitude": "39.01",
     "Longitude": "27.83",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -354,7 +354,7 @@
     "Time": "2020-01-30T04:35:09.4Z",
     "Latitude": "39.04",
     "Longitude": "27.83",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.9",
     "EventLocationName": "WESTERN TURKEY"
@@ -364,7 +364,7 @@
     "Time": "2020-01-30T04:28:36.7Z",
     "Latitude": "39.1",
     "Longitude": "27.83",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -374,7 +374,7 @@
     "Time": "2020-01-29T18:59:58.4Z",
     "Latitude": "39.1",
     "Longitude": "27.84",
-    "Depth/km": "3",
+    "DepthKm": "3",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -384,7 +384,7 @@
     "Time": "2020-01-29T11:14:48.2Z",
     "Latitude": "39.08",
     "Longitude": "27.8",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -394,7 +394,7 @@
     "Time": "2020-01-29T03:38:24.9Z",
     "Latitude": "39",
     "Longitude": "27.86",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -404,7 +404,7 @@
     "Time": "2020-01-28T20:10:27.4Z",
     "Latitude": "39.01",
     "Longitude": "27.82",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "4.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -414,7 +414,7 @@
     "Time": "2020-01-28T16:04:03.9Z",
     "Latitude": "39.05",
     "Longitude": "27.83",
-    "Depth/km": "4",
+    "DepthKm": "4",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -424,7 +424,7 @@
     "Time": "2020-01-28T14:58:07.1Z",
     "Latitude": "39.1",
     "Longitude": "27.87",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -434,7 +434,7 @@
     "Time": "2020-01-28T14:53:50.6Z",
     "Latitude": "39.1",
     "Longitude": "27.86",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "4.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -444,7 +444,7 @@
     "Time": "2020-01-28T14:37:42.4Z",
     "Latitude": "39.01",
     "Longitude": "27.82",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -454,7 +454,7 @@
     "Time": "2020-01-28T14:08:50.7Z",
     "Latitude": "39.09",
     "Longitude": "27.81",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -464,7 +464,7 @@
     "Time": "2020-01-28T13:47:56.8Z",
     "Latitude": "39.05",
     "Longitude": "27.84",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -474,7 +474,7 @@
     "Time": "2020-01-28T12:38:32.6Z",
     "Latitude": "39.08",
     "Longitude": "27.81",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -484,7 +484,7 @@
     "Time": "2020-01-28T12:08:34.5Z",
     "Latitude": "39.09",
     "Longitude": "27.85",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -494,7 +494,7 @@
     "Time": "2020-01-28T12:00:29.5Z",
     "Latitude": "39.06",
     "Longitude": "27.85",
-    "Depth/km": "15",
+    "DepthKm": "15",
     "MagType": "ml",
     "Magnitude": "3.8",
     "EventLocationName": "WESTERN TURKEY"
@@ -504,7 +504,7 @@
     "Time": "2020-01-28T11:45:34.8Z",
     "Latitude": "39.09",
     "Longitude": "27.81",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -514,7 +514,7 @@
     "Time": "2020-01-28T11:33:47.4Z",
     "Latitude": "39.02",
     "Longitude": "27.81",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -524,7 +524,7 @@
     "Time": "2020-01-28T11:26:13.4Z",
     "Latitude": "39.1",
     "Longitude": "27.84",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "mw",
     "Magnitude": "4.9",
     "EventLocationName": "WESTERN TURKEY"
@@ -534,7 +534,7 @@
     "Time": "2020-01-28T09:54:11.0Z",
     "Latitude": "39.01",
     "Longitude": "27.85",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -544,7 +544,7 @@
     "Time": "2020-01-28T09:47:32.6Z",
     "Latitude": "40.12",
     "Longitude": "28.92",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -554,7 +554,7 @@
     "Time": "2020-01-28T08:36:33.6Z",
     "Latitude": "39.01",
     "Longitude": "27.79",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -564,7 +564,7 @@
     "Time": "2020-01-28T07:02:54.4Z",
     "Latitude": "38.99",
     "Longitude": "27.84",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -574,7 +574,7 @@
     "Time": "2020-01-27T23:46:58.6Z",
     "Latitude": "39.05",
     "Longitude": "27.82",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -584,7 +584,7 @@
     "Time": "2020-01-27T23:21:10.2Z",
     "Latitude": "39.07",
     "Longitude": "27.81",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.6",
     "EventLocationName": "WESTERN TURKEY"
@@ -594,7 +594,7 @@
     "Time": "2020-01-27T19:24:32.5Z",
     "Latitude": "39.06",
     "Longitude": "27.83",
-    "Depth/km": "11",
+    "DepthKm": "11",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -604,7 +604,7 @@
     "Time": "2020-01-27T12:15:09.2Z",
     "Latitude": "39.08",
     "Longitude": "27.83",
-    "Depth/km": "3",
+    "DepthKm": "3",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -614,7 +614,7 @@
     "Time": "2020-01-27T11:18:51.0Z",
     "Latitude": "39.07",
     "Longitude": "27.82",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -624,7 +624,7 @@
     "Time": "2020-01-27T09:33:55.1Z",
     "Latitude": "41.24",
     "Longitude": "29.57",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -634,7 +634,7 @@
     "Time": "2020-01-27T05:38:08.3Z",
     "Latitude": "39.05",
     "Longitude": "27.81",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -644,7 +644,7 @@
     "Time": "2020-01-26T14:15:40.3Z",
     "Latitude": "38.98",
     "Longitude": "27.87",
-    "Depth/km": "3",
+    "DepthKm": "3",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -654,7 +654,7 @@
     "Time": "2020-01-26T12:18:25.1Z",
     "Latitude": "39.03",
     "Longitude": "27.85",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -664,7 +664,7 @@
     "Time": "2020-01-26T10:31:47.4Z",
     "Latitude": "39.06",
     "Longitude": "27.82",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -674,7 +674,7 @@
     "Time": "2020-01-26T08:26:56.9Z",
     "Latitude": "39.08",
     "Longitude": "27.83",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -684,7 +684,7 @@
     "Time": "2020-01-26T05:31:23.9Z",
     "Latitude": "39.01",
     "Longitude": "27.84",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -694,7 +694,7 @@
     "Time": "2020-01-26T01:33:08.8Z",
     "Latitude": "39.01",
     "Longitude": "27.86",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -704,7 +704,7 @@
     "Time": "2020-01-25T22:38:02.3Z",
     "Latitude": "39.02",
     "Longitude": "27.88",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -714,7 +714,7 @@
     "Time": "2020-01-25T22:23:00.6Z",
     "Latitude": "39.02",
     "Longitude": "27.83",
-    "Depth/km": "1",
+    "DepthKm": "1",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -724,7 +724,7 @@
     "Time": "2020-01-25T22:11:41.9Z",
     "Latitude": "39.03",
     "Longitude": "27.85",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "4",
     "EventLocationName": "WESTERN TURKEY"
@@ -734,7 +734,7 @@
     "Time": "2020-01-25T21:56:30.1Z",
     "Latitude": "39.03",
     "Longitude": "27.83",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -744,7 +744,7 @@
     "Time": "2020-01-25T19:48:59.6Z",
     "Latitude": "39",
     "Longitude": "27.84",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -754,7 +754,7 @@
     "Time": "2020-01-25T17:49:47.8Z",
     "Latitude": "39.04",
     "Longitude": "27.83",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "4.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -764,7 +764,7 @@
     "Time": "2020-01-25T14:22:25.7Z",
     "Latitude": "39.02",
     "Longitude": "27.89",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -774,7 +774,7 @@
     "Time": "2020-01-25T11:55:42.7Z",
     "Latitude": "38.99",
     "Longitude": "27.84",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -784,7 +784,7 @@
     "Time": "2020-01-25T08:24:43.8Z",
     "Latitude": "39",
     "Longitude": "27.84",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -794,7 +794,7 @@
     "Time": "2020-01-25T07:14:55.2Z",
     "Latitude": "39.02",
     "Longitude": "27.83",
-    "Depth/km": "4",
+    "DepthKm": "4",
     "MagType": "ml",
     "Magnitude": "3.6",
     "EventLocationName": "WESTERN TURKEY"
@@ -804,7 +804,7 @@
     "Time": "2020-01-25T07:12:18.5Z",
     "Latitude": "39.05",
     "Longitude": "27.8",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -814,7 +814,7 @@
     "Time": "2020-01-25T05:41:33.1Z",
     "Latitude": "39",
     "Longitude": "27.86",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -824,7 +824,7 @@
     "Time": "2020-01-25T02:21:33.5Z",
     "Latitude": "39.02",
     "Longitude": "27.83",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -834,7 +834,7 @@
     "Time": "2020-01-24T23:25:56.5Z",
     "Latitude": "39.02",
     "Longitude": "27.83",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -844,7 +844,7 @@
     "Time": "2020-01-24T21:16:14.1Z",
     "Latitude": "39.07",
     "Longitude": "27.76",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "3.9",
     "EventLocationName": "WESTERN TURKEY"
@@ -854,7 +854,7 @@
     "Time": "2020-01-24T21:09:39.4Z",
     "Latitude": "39.46",
     "Longitude": "27.91",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -864,7 +864,7 @@
     "Time": "2020-01-24T17:40:54.4Z",
     "Latitude": "39.02",
     "Longitude": "27.84",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -874,7 +874,7 @@
     "Time": "2020-01-24T16:01:54.7Z",
     "Latitude": "39.06",
     "Longitude": "27.84",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -884,7 +884,7 @@
     "Time": "2020-01-24T13:58:24.8Z",
     "Latitude": "39.02",
     "Longitude": "27.77",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -894,7 +894,7 @@
     "Time": "2020-01-24T09:58:05.9Z",
     "Latitude": "39.02",
     "Longitude": "27.88",
-    "Depth/km": "11",
+    "DepthKm": "11",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -904,7 +904,7 @@
     "Time": "2020-01-24T08:24:44.1Z",
     "Latitude": "39.06",
     "Longitude": "27.83",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -914,7 +914,7 @@
     "Time": "2020-01-24T07:07:04.6Z",
     "Latitude": "39.08",
     "Longitude": "27.82",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.9",
     "EventLocationName": "WESTERN TURKEY"
@@ -924,7 +924,7 @@
     "Time": "2020-01-24T03:04:38.2Z",
     "Latitude": "39.04",
     "Longitude": "27.85",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.9",
     "EventLocationName": "WESTERN TURKEY"
@@ -934,7 +934,7 @@
     "Time": "2020-01-24T02:26:24.5Z",
     "Latitude": "39.09",
     "Longitude": "27.84",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -944,7 +944,7 @@
     "Time": "2020-01-24T01:28:21.9Z",
     "Latitude": "38.99",
     "Longitude": "27.85",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -954,7 +954,7 @@
     "Time": "2020-01-23T23:38:20.6Z",
     "Latitude": "39.06",
     "Longitude": "27.81",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -964,7 +964,7 @@
     "Time": "2020-01-23T21:58:26.3Z",
     "Latitude": "39.01",
     "Longitude": "27.84",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -974,7 +974,7 @@
     "Time": "2020-01-23T21:25:52.3Z",
     "Latitude": "39.04",
     "Longitude": "27.84",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3.6",
     "EventLocationName": "WESTERN TURKEY"
@@ -984,7 +984,7 @@
     "Time": "2020-01-23T21:09:39.4Z",
     "Latitude": "39.07",
     "Longitude": "27.82",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -994,7 +994,7 @@
     "Time": "2020-01-23T20:36:15.4Z",
     "Latitude": "39.06",
     "Longitude": "27.82",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -1004,7 +1004,7 @@
     "Time": "2020-01-23T19:08:08.0Z",
     "Latitude": "39.07",
     "Longitude": "27.84",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1014,7 +1014,7 @@
     "Time": "2020-01-23T18:40:18.3Z",
     "Latitude": "39.05",
     "Longitude": "27.82",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1024,7 +1024,7 @@
     "Time": "2020-01-23T17:07:07.5Z",
     "Latitude": "39.02",
     "Longitude": "27.9",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1034,7 +1034,7 @@
     "Time": "2020-01-23T16:47:49.9Z",
     "Latitude": "39.01",
     "Longitude": "27.88",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1044,7 +1044,7 @@
     "Time": "2020-01-23T13:09:17.6Z",
     "Latitude": "38.98",
     "Longitude": "27.86",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1054,7 +1054,7 @@
     "Time": "2020-01-23T11:43:41.0Z",
     "Latitude": "39.07",
     "Longitude": "27.84",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1064,7 +1064,7 @@
     "Time": "2020-01-23T11:18:53.0Z",
     "Latitude": "38.99",
     "Longitude": "27.86",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1074,7 +1074,7 @@
     "Time": "2020-01-23T10:53:04.4Z",
     "Latitude": "39.02",
     "Longitude": "27.85",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1084,7 +1084,7 @@
     "Time": "2020-01-23T10:38:01.1Z",
     "Latitude": "39.11",
     "Longitude": "27.83",
-    "Depth/km": "19",
+    "DepthKm": "19",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1094,7 +1094,7 @@
     "Time": "2020-01-23T10:06:50.1Z",
     "Latitude": "39.01",
     "Longitude": "27.87",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -1104,7 +1104,7 @@
     "Time": "2020-01-23T09:22:19.7Z",
     "Latitude": "39.01",
     "Longitude": "27.86",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1114,7 +1114,7 @@
     "Time": "2020-01-23T08:34:45.4Z",
     "Latitude": "39.01",
     "Longitude": "27.83",
-    "Depth/km": "14",
+    "DepthKm": "14",
     "MagType": "ml",
     "Magnitude": "3.9",
     "EventLocationName": "WESTERN TURKEY"
@@ -1124,7 +1124,7 @@
     "Time": "2020-01-23T08:26:34.8Z",
     "Latitude": "39.04",
     "Longitude": "27.84",
-    "Depth/km": "3",
+    "DepthKm": "3",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -1134,7 +1134,7 @@
     "Time": "2020-01-23T07:40:39.6Z",
     "Latitude": "39",
     "Longitude": "27.85",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1144,7 +1144,7 @@
     "Time": "2020-01-23T07:26:08.0Z",
     "Latitude": "39",
     "Longitude": "27.86",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -1154,7 +1154,7 @@
     "Time": "2020-01-23T07:20:21.1Z",
     "Latitude": "39.08",
     "Longitude": "27.81",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1164,7 +1164,7 @@
     "Time": "2020-01-23T07:07:57.0Z",
     "Latitude": "39.06",
     "Longitude": "27.83",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1174,7 +1174,7 @@
     "Time": "2020-01-23T06:59:30.1Z",
     "Latitude": "39.06",
     "Longitude": "27.85",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -1184,7 +1184,7 @@
     "Time": "2020-01-23T06:50:53.2Z",
     "Latitude": "39.02",
     "Longitude": "27.89",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -1194,7 +1194,7 @@
     "Time": "2020-01-23T05:39:51.3Z",
     "Latitude": "39.08",
     "Longitude": "27.83",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.6",
     "EventLocationName": "WESTERN TURKEY"
@@ -1204,7 +1204,7 @@
     "Time": "2020-01-23T05:36:31.1Z",
     "Latitude": "39.03",
     "Longitude": "27.85",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.9",
     "EventLocationName": "WESTERN TURKEY"
@@ -1214,7 +1214,7 @@
     "Time": "2020-01-23T05:34:54.9Z",
     "Latitude": "39.06",
     "Longitude": "27.84",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1224,7 +1224,7 @@
     "Time": "2020-01-23T05:16:06.9Z",
     "Latitude": "39.07",
     "Longitude": "27.83",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1234,7 +1234,7 @@
     "Time": "2020-01-23T05:02:15.1Z",
     "Latitude": "39.02",
     "Longitude": "27.83",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1244,7 +1244,7 @@
     "Time": "2020-01-23T04:42:49.6Z",
     "Latitude": "39.07",
     "Longitude": "27.83",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -1254,7 +1254,7 @@
     "Time": "2020-01-23T04:32:43.3Z",
     "Latitude": "39.09",
     "Longitude": "27.84",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1264,7 +1264,7 @@
     "Time": "2020-01-23T03:20:04.9Z",
     "Latitude": "39.07",
     "Longitude": "27.83",
-    "Depth/km": "15",
+    "DepthKm": "15",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1274,7 +1274,7 @@
     "Time": "2020-01-23T02:24:25.2Z",
     "Latitude": "39",
     "Longitude": "27.83",
-    "Depth/km": "4",
+    "DepthKm": "4",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1284,7 +1284,7 @@
     "Time": "2020-01-23T02:13:26.7Z",
     "Latitude": "39.04",
     "Longitude": "27.84",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.6",
     "EventLocationName": "WESTERN TURKEY"
@@ -1294,7 +1294,7 @@
     "Time": "2020-01-23T01:09:52.2Z",
     "Latitude": "39.02",
     "Longitude": "27.83",
-    "Depth/km": "14",
+    "DepthKm": "14",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -1304,7 +1304,7 @@
     "Time": "2020-01-23T01:07:41.4Z",
     "Latitude": "39",
     "Longitude": "27.86",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1314,7 +1314,7 @@
     "Time": "2020-01-23T01:02:36.0Z",
     "Latitude": "38.99",
     "Longitude": "27.85",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1324,7 +1324,7 @@
     "Time": "2020-01-23T01:00:17.3Z",
     "Latitude": "39.04",
     "Longitude": "27.85",
-    "Depth/km": "11",
+    "DepthKm": "11",
     "MagType": "ml",
     "Magnitude": "3.6",
     "EventLocationName": "WESTERN TURKEY"
@@ -1334,7 +1334,7 @@
     "Time": "2020-01-23T00:45:23.2Z",
     "Latitude": "39.04",
     "Longitude": "27.85",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "4.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -1344,7 +1344,7 @@
     "Time": "2020-01-23T00:20:24.2Z",
     "Latitude": "39.01",
     "Longitude": "27.83",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1354,7 +1354,7 @@
     "Time": "2020-01-22T23:58:54.4Z",
     "Latitude": "39.09",
     "Longitude": "27.83",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -1364,7 +1364,7 @@
     "Time": "2020-01-22T23:52:55.9Z",
     "Latitude": "39.06",
     "Longitude": "27.83",
-    "Depth/km": "11",
+    "DepthKm": "11",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -1374,7 +1374,7 @@
     "Time": "2020-01-22T23:04:50.3Z",
     "Latitude": "39.08",
     "Longitude": "27.82",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -1384,7 +1384,7 @@
     "Time": "2020-01-22T22:39:18.5Z",
     "Latitude": "39.03",
     "Longitude": "27.86",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "4.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -1394,7 +1394,7 @@
     "Time": "2020-01-22T22:29:19.3Z",
     "Latitude": "39.02",
     "Longitude": "27.85",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1404,7 +1404,7 @@
     "Time": "2020-01-22T21:52:05.6Z",
     "Latitude": "39.07",
     "Longitude": "27.86",
-    "Depth/km": "14",
+    "DepthKm": "14",
     "MagType": "ml",
     "Magnitude": "4",
     "EventLocationName": "WESTERN TURKEY"
@@ -1414,7 +1414,7 @@
     "Time": "2020-01-22T21:41:42.1Z",
     "Latitude": "39.02",
     "Longitude": "27.85",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1424,7 +1424,7 @@
     "Time": "2020-01-22T21:39:47.5Z",
     "Latitude": "39.02",
     "Longitude": "27.84",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.6",
     "EventLocationName": "WESTERN TURKEY"
@@ -1434,7 +1434,7 @@
     "Time": "2020-01-22T21:34:33.1Z",
     "Latitude": "39.06",
     "Longitude": "27.83",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -1444,7 +1444,7 @@
     "Time": "2020-01-22T21:30:11.1Z",
     "Latitude": "39.04",
     "Longitude": "27.84",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "4.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -1454,7 +1454,7 @@
     "Time": "2020-01-22T21:26:49.7Z",
     "Latitude": "39.04",
     "Longitude": "27.85",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -1464,7 +1464,7 @@
     "Time": "2020-01-22T21:24:07.4Z",
     "Latitude": "39.05",
     "Longitude": "27.85",
-    "Depth/km": "14",
+    "DepthKm": "14",
     "MagType": "ml",
     "Magnitude": "4.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1474,7 +1474,7 @@
     "Time": "2020-01-22T21:11:23.6Z",
     "Latitude": "38.99",
     "Longitude": "27.86",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1484,7 +1484,7 @@
     "Time": "2020-01-22T20:58:56.1Z",
     "Latitude": "39.07",
     "Longitude": "27.83",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3.8",
     "EventLocationName": "WESTERN TURKEY"
@@ -1494,7 +1494,7 @@
     "Time": "2020-01-22T20:57:37.3Z",
     "Latitude": "39.05",
     "Longitude": "27.82",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -1504,7 +1504,7 @@
     "Time": "2020-01-22T20:53:35.1Z",
     "Latitude": "39.02",
     "Longitude": "27.84",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -1514,7 +1514,7 @@
     "Time": "2020-01-22T20:40:33.3Z",
     "Latitude": "39.07",
     "Longitude": "27.83",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -1524,7 +1524,7 @@
     "Time": "2020-01-22T20:37:34.7Z",
     "Latitude": "39.03",
     "Longitude": "27.82",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -1534,7 +1534,7 @@
     "Time": "2020-01-22T20:28:55.2Z",
     "Latitude": "39.08",
     "Longitude": "27.85",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1544,7 +1544,7 @@
     "Time": "2020-01-22T20:20:33.4Z",
     "Latitude": "39.05",
     "Longitude": "27.85",
-    "Depth/km": "11",
+    "DepthKm": "11",
     "MagType": "ml",
     "Magnitude": "3.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -1554,7 +1554,7 @@
     "Time": "2020-01-22T20:17:38.6Z",
     "Latitude": "39.07",
     "Longitude": "27.84",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "4.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -1564,7 +1564,7 @@
     "Time": "2020-01-22T20:15:52.4Z",
     "Latitude": "39.08",
     "Longitude": "27.83",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1574,7 +1574,7 @@
     "Time": "2020-01-22T20:14:20.1Z",
     "Latitude": "38.99",
     "Longitude": "27.84",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -1584,7 +1584,7 @@
     "Time": "2020-01-22T20:00:25.9Z",
     "Latitude": "39.02",
     "Longitude": "27.8",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1594,7 +1594,7 @@
     "Time": "2020-01-22T19:57:29.8Z",
     "Latitude": "39",
     "Longitude": "27.86",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.8",
     "EventLocationName": "WESTERN TURKEY"
@@ -1604,7 +1604,7 @@
     "Time": "2020-01-22T19:50:53.5Z",
     "Latitude": "39.02",
     "Longitude": "27.84",
-    "Depth/km": "1",
+    "DepthKm": "1",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -1614,7 +1614,7 @@
     "Time": "2020-01-22T19:48:30.5Z",
     "Latitude": "39.09",
     "Longitude": "27.84",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "4.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1624,7 +1624,7 @@
     "Time": "2020-01-22T19:46:40.1Z",
     "Latitude": "39.01",
     "Longitude": "27.88",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -1634,7 +1634,7 @@
     "Time": "2020-01-22T19:34:11.7Z",
     "Latitude": "39.07",
     "Longitude": "27.83",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -1644,7 +1644,7 @@
     "Time": "2020-01-22T19:28:17.0Z",
     "Latitude": "39",
     "Longitude": "27.85",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1654,7 +1654,7 @@
     "Time": "2020-01-22T19:25:13.8Z",
     "Latitude": "39.06",
     "Longitude": "27.85",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "4.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -1664,7 +1664,7 @@
     "Time": "2020-01-22T19:22:16.2Z",
     "Latitude": "39.06",
     "Longitude": "27.84",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "mw",
     "Magnitude": "5.6",
     "EventLocationName": "WESTERN TURKEY"
@@ -1674,7 +1674,7 @@
     "Time": "2020-01-22T14:46:31.2Z",
     "Latitude": "38.86",
     "Longitude": "27.29",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "4",
     "EventLocationName": "WESTERN TURKEY"
@@ -1684,7 +1684,7 @@
     "Time": "2020-01-22T13:49:06.9Z",
     "Latitude": "38.87",
     "Longitude": "27.3",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -1694,7 +1694,7 @@
     "Time": "2020-01-22T13:18:29.2Z",
     "Latitude": "38.88",
     "Longitude": "27.28",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1704,7 +1704,7 @@
     "Time": "2020-01-20T03:05:07.6Z",
     "Latitude": "39.05",
     "Longitude": "27.84",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1714,7 +1714,7 @@
     "Time": "2020-01-19T12:50:59.0Z",
     "Latitude": "39.06",
     "Longitude": "27.84",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1724,7 +1724,7 @@
     "Time": "2020-01-12T22:50:41.0Z",
     "Latitude": "38.69",
     "Longitude": "26.99",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -1734,7 +1734,7 @@
     "Time": "2020-01-11T13:37:37.0Z",
     "Latitude": "40.85",
     "Longitude": "28.24",
-    "Depth/km": "16",
+    "DepthKm": "16",
     "MagType": "mb",
     "Magnitude": "4.9",
     "EventLocationName": "WESTERN TURKEY"
@@ -1744,7 +1744,7 @@
     "Time": "2020-01-11T05:15:26.4Z",
     "Latitude": "40.7",
     "Longitude": "27.4",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1754,7 +1754,7 @@
     "Time": "2020-01-06T00:14:23.4Z",
     "Latitude": "38.58",
     "Longitude": "27.45",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -1764,7 +1764,7 @@
     "Time": "2020-01-04T17:13:03.1Z",
     "Latitude": "40.77",
     "Longitude": "29.04",
-    "Depth/km": "11",
+    "DepthKm": "11",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1774,7 +1774,7 @@
     "Time": "2020-01-02T19:35:47.6Z",
     "Latitude": "40.01",
     "Longitude": "27.78",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1784,7 +1784,7 @@
     "Time": "2020-01-02T11:18:40.9Z",
     "Latitude": "40.84",
     "Longitude": "28.35",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1794,7 +1794,7 @@
     "Time": "2019-12-30T17:05:58.7Z",
     "Latitude": "39.05",
     "Longitude": "27.84",
-    "Depth/km": "1",
+    "DepthKm": "1",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -1804,7 +1804,7 @@
     "Time": "2019-12-30T14:32:49.7Z",
     "Latitude": "39.06",
     "Longitude": "27.83",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1814,7 +1814,7 @@
     "Time": "2019-12-30T07:45:31.0Z",
     "Latitude": "38.24",
     "Longitude": "26.27",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -1824,7 +1824,7 @@
     "Time": "2019-12-26T02:55:35.0Z",
     "Latitude": "39.44",
     "Longitude": "27.9",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -1834,7 +1834,7 @@
     "Time": "2019-12-26T01:55:28.2Z",
     "Latitude": "39.45",
     "Longitude": "27.92",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -1844,7 +1844,7 @@
     "Time": "2019-12-24T19:35:03.6Z",
     "Latitude": "40.8",
     "Longitude": "27.54",
-    "Depth/km": "17",
+    "DepthKm": "17",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -1854,7 +1854,7 @@
     "Time": "2019-12-18T14:48:09.1Z",
     "Latitude": "38.59",
     "Longitude": "27.61",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -1864,7 +1864,7 @@
     "Time": "2019-12-16T18:54:40.3Z",
     "Latitude": "39.14",
     "Longitude": "29.07",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1874,7 +1874,7 @@
     "Time": "2019-12-16T03:00:26.0Z",
     "Latitude": "39.41",
     "Longitude": "25.68",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "AEGEAN SEA"
@@ -1884,7 +1884,7 @@
     "Time": "2019-12-11T13:15:45.6Z",
     "Latitude": "39.44",
     "Longitude": "27.94",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -1894,7 +1894,7 @@
     "Time": "2019-12-11T02:11:52.2Z",
     "Latitude": "39.46",
     "Longitude": "27.94",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1904,7 +1904,7 @@
     "Time": "2019-12-11T00:01:44.5Z",
     "Latitude": "39.45",
     "Longitude": "27.91",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -1914,7 +1914,7 @@
     "Time": "2019-12-10T23:58:48.7Z",
     "Latitude": "39.45",
     "Longitude": "27.91",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -1924,7 +1924,7 @@
     "Time": "2019-12-10T20:46:18.7Z",
     "Latitude": "39.45",
     "Longitude": "27.92",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "mb",
     "Magnitude": "4.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -1934,7 +1934,7 @@
     "Time": "2019-12-10T20:27:25.3Z",
     "Latitude": "39.45",
     "Longitude": "27.89",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1944,7 +1944,7 @@
     "Time": "2019-12-10T20:24:05.3Z",
     "Latitude": "39.45",
     "Longitude": "27.91",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "mb",
     "Magnitude": "4.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -1954,7 +1954,7 @@
     "Time": "2019-12-10T20:14:02.9Z",
     "Latitude": "39.45",
     "Longitude": "27.94",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "mb",
     "Magnitude": "4.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -1964,7 +1964,7 @@
     "Time": "2019-12-09T02:22:09.5Z",
     "Latitude": "39.5",
     "Longitude": "28.79",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -1974,7 +1974,7 @@
     "Time": "2019-12-07T19:01:58.4Z",
     "Latitude": "39.66",
     "Longitude": "25.53",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "AEGEAN SEA"
@@ -1984,7 +1984,7 @@
     "Time": "2019-12-07T02:32:06.2Z",
     "Latitude": "40.74",
     "Longitude": "31.51",
-    "Depth/km": "3",
+    "DepthKm": "3",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -1994,7 +1994,7 @@
     "Time": "2019-12-06T22:36:16.9Z",
     "Latitude": "40.76",
     "Longitude": "31.5",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "3.6",
     "EventLocationName": "WESTERN TURKEY"
@@ -2004,7 +2004,7 @@
     "Time": "2019-12-01T02:52:32.7Z",
     "Latitude": "40.71",
     "Longitude": "27.46",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -2014,7 +2014,7 @@
     "Time": "2019-11-28T11:37:51.1Z",
     "Latitude": "43.42",
     "Longitude": "28.71",
-    "Depth/km": "15",
+    "DepthKm": "15",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "BLACK SEA"
@@ -2024,7 +2024,7 @@
     "Time": "2019-11-26T22:57:29.0Z",
     "Latitude": "39.28",
     "Longitude": "27.7",
-    "Depth/km": "4",
+    "DepthKm": "4",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -2034,7 +2034,7 @@
     "Time": "2019-11-25T17:22:21.3Z",
     "Latitude": "39.29",
     "Longitude": "27.7",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -2044,7 +2044,7 @@
     "Time": "2019-11-22T14:36:45.8Z",
     "Latitude": "40.76",
     "Longitude": "28.97",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -2054,7 +2054,7 @@
     "Time": "2019-11-22T14:35:43.1Z",
     "Latitude": "40.59",
     "Longitude": "28.94",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -2064,7 +2064,7 @@
     "Time": "2019-11-21T12:27:20.7Z",
     "Latitude": "39.34",
     "Longitude": "28.26",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -2074,7 +2074,7 @@
     "Time": "2019-11-21T12:15:36.9Z",
     "Latitude": "39.36",
     "Longitude": "28.34",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.9",
     "EventLocationName": "WESTERN TURKEY"
@@ -2084,7 +2084,7 @@
     "Time": "2019-11-21T05:47:19.8Z",
     "Latitude": "38.43",
     "Longitude": "26.73",
-    "Depth/km": "11",
+    "DepthKm": "11",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2094,7 +2094,7 @@
     "Time": "2019-11-20T03:51:49.7Z",
     "Latitude": "38",
     "Longitude": "27",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -2104,7 +2104,7 @@
     "Time": "2019-11-17T23:23:32.0Z",
     "Latitude": "40.2",
     "Longitude": "29.06",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -2114,7 +2114,7 @@
     "Time": "2019-11-10T15:16:13.1Z",
     "Latitude": "38.28",
     "Longitude": "26.34",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2124,7 +2124,7 @@
     "Time": "2019-11-09T23:44:55.1Z",
     "Latitude": "39.63",
     "Longitude": "28.62",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2134,7 +2134,7 @@
     "Time": "2019-11-08T09:47:24.0Z",
     "Latitude": "38.26",
     "Longitude": "26.39",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2144,7 +2144,7 @@
     "Time": "2019-11-04T05:39:50.8Z",
     "Latitude": "39.01",
     "Longitude": "26.07",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2154,7 +2154,7 @@
     "Time": "2019-10-29T15:38:41.7Z",
     "Latitude": "40.73",
     "Longitude": "27.39",
-    "Depth/km": "17",
+    "DepthKm": "17",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2164,7 +2164,7 @@
     "Time": "2019-10-27T10:18:46.8Z",
     "Latitude": "40.88",
     "Longitude": "28.21",
-    "Depth/km": "11",
+    "DepthKm": "11",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -2174,7 +2174,7 @@
     "Time": "2019-10-27T09:17:32.1Z",
     "Latitude": "39.66",
     "Longitude": "26.35",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2184,7 +2184,7 @@
     "Time": "2019-10-25T12:56:23.7Z",
     "Latitude": "40.88",
     "Longitude": "28.26",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "mw",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -2194,7 +2194,7 @@
     "Time": "2019-10-19T07:34:04.5Z",
     "Latitude": "40.83",
     "Longitude": "27.99",
-    "Depth/km": "11",
+    "DepthKm": "11",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2204,7 +2204,7 @@
     "Time": "2019-10-12T04:23:38.4Z",
     "Latitude": "39.4",
     "Longitude": "25.65",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "AEGEAN SEA"
@@ -2214,7 +2214,7 @@
     "Time": "2019-10-11T03:38:13.4Z",
     "Latitude": "39.43",
     "Longitude": "25.68",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "AEGEAN SEA"
@@ -2224,7 +2224,7 @@
     "Time": "2019-10-11T00:29:49.4Z",
     "Latitude": "39.42",
     "Longitude": "25.67",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "AEGEAN SEA"
@@ -2234,7 +2234,7 @@
     "Time": "2019-10-10T23:55:58.1Z",
     "Latitude": "39.4",
     "Longitude": "25.66",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "mb",
     "Magnitude": "4.2",
     "EventLocationName": "AEGEAN SEA"
@@ -2244,7 +2244,7 @@
     "Time": "2019-10-10T19:32:07.3Z",
     "Latitude": "40.69",
     "Longitude": "29.26",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -2254,7 +2254,7 @@
     "Time": "2019-10-10T17:09:40.2Z",
     "Latitude": "40.7",
     "Longitude": "29.25",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2264,7 +2264,7 @@
     "Time": "2019-10-10T17:04:39.2Z",
     "Latitude": "40.71",
     "Longitude": "29.26",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -2274,7 +2274,7 @@
     "Time": "2019-10-10T16:52:03.9Z",
     "Latitude": "40.7",
     "Longitude": "29.26",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "mb",
     "Magnitude": "4",
     "EventLocationName": "WESTERN TURKEY"
@@ -2284,7 +2284,7 @@
     "Time": "2019-10-09T13:37:46.6Z",
     "Latitude": "38.87",
     "Longitude": "27",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -2294,7 +2294,7 @@
     "Time": "2019-10-09T06:27:40.0Z",
     "Latitude": "40.85",
     "Longitude": "28.23",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -2304,7 +2304,7 @@
     "Time": "2019-10-09T00:48:12.2Z",
     "Latitude": "39.2",
     "Longitude": "28.91",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2314,7 +2314,7 @@
     "Time": "2019-10-04T15:54:30.6Z",
     "Latitude": "40.28",
     "Longitude": "27.24",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -2324,7 +2324,7 @@
     "Time": "2019-09-30T13:43:56.0Z",
     "Latitude": "40.86",
     "Longitude": "28.3",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2334,7 +2334,7 @@
     "Time": "2019-09-29T06:10:58.0Z",
     "Latitude": "40.7",
     "Longitude": "29.27",
-    "Depth/km": "11",
+    "DepthKm": "11",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -2344,7 +2344,7 @@
     "Time": "2019-09-28T14:28:39.2Z",
     "Latitude": "40.87",
     "Longitude": "28.23",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2354,7 +2354,7 @@
     "Time": "2019-09-28T11:03:04.2Z",
     "Latitude": "40.87",
     "Longitude": "28.24",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "mb",
     "Magnitude": "4",
     "EventLocationName": "WESTERN TURKEY"
@@ -2364,7 +2364,7 @@
     "Time": "2019-09-27T13:35:47.7Z",
     "Latitude": "40.42",
     "Longitude": "26.08",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.8",
     "EventLocationName": "WESTERN TURKEY"
@@ -2374,7 +2374,7 @@
     "Time": "2019-09-27T11:13:46.9Z",
     "Latitude": "40.84",
     "Longitude": "28.25",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2384,7 +2384,7 @@
     "Time": "2019-09-27T10:32:31.6Z",
     "Latitude": "40.84",
     "Longitude": "28.26",
-    "Depth/km": "14",
+    "DepthKm": "14",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -2394,7 +2394,7 @@
     "Time": "2019-09-26T23:03:11.6Z",
     "Latitude": "39.66",
     "Longitude": "27.65",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -2404,7 +2404,7 @@
     "Time": "2019-09-26T20:19:18.9Z",
     "Latitude": "40.87",
     "Longitude": "28.24",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "4.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2414,7 +2414,7 @@
     "Time": "2019-09-26T20:02:40.9Z",
     "Latitude": "40.86",
     "Longitude": "28.29",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -2424,7 +2424,7 @@
     "Time": "2019-09-26T15:39:21.4Z",
     "Latitude": "40.84",
     "Longitude": "28.25",
-    "Depth/km": "15",
+    "DepthKm": "15",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2434,7 +2434,7 @@
     "Time": "2019-09-26T14:01:56.6Z",
     "Latitude": "40.9",
     "Longitude": "28.2",
-    "Depth/km": "11",
+    "DepthKm": "11",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2444,7 +2444,7 @@
     "Time": "2019-09-26T13:57:01.6Z",
     "Latitude": "40.9",
     "Longitude": "28.2",
-    "Depth/km": "14",
+    "DepthKm": "14",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -2454,7 +2454,7 @@
     "Time": "2019-09-26T13:44:37.2Z",
     "Latitude": "40.85",
     "Longitude": "28.23",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2464,7 +2464,7 @@
     "Time": "2019-09-26T13:33:44.2Z",
     "Latitude": "40.88",
     "Longitude": "28.22",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2474,7 +2474,7 @@
     "Time": "2019-09-26T13:05:05.2Z",
     "Latitude": "39.48",
     "Longitude": "25.82",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "AEGEAN SEA"
@@ -2484,7 +2484,7 @@
     "Time": "2019-09-26T12:59:00.0Z",
     "Latitude": "40.87",
     "Longitude": "28.19",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -2494,7 +2494,7 @@
     "Time": "2019-09-26T12:33:11.9Z",
     "Latitude": "39.47",
     "Longitude": "25.85",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.8",
     "EventLocationName": "AEGEAN SEA"
@@ -2504,7 +2504,7 @@
     "Time": "2019-09-26T12:26:10.9Z",
     "Latitude": "40.85",
     "Longitude": "28.26",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -2514,7 +2514,7 @@
     "Time": "2019-09-26T12:17:09.6Z",
     "Latitude": "40.87",
     "Longitude": "28.27",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.8",
     "EventLocationName": "WESTERN TURKEY"
@@ -2524,7 +2524,7 @@
     "Time": "2019-09-26T12:15:05.2Z",
     "Latitude": "40.86",
     "Longitude": "28.21",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -2534,7 +2534,7 @@
     "Time": "2019-09-26T12:14:51.2Z",
     "Latitude": "39.48",
     "Longitude": "25.84",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "AEGEAN SEA"
@@ -2544,7 +2544,7 @@
     "Time": "2019-09-26T11:34:03.0Z",
     "Latitude": "40.88",
     "Longitude": "28.21",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -2554,7 +2554,7 @@
     "Time": "2019-09-26T11:31:51.8Z",
     "Latitude": "40.88",
     "Longitude": "28.21",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2564,7 +2564,7 @@
     "Time": "2019-09-26T11:29:14.2Z",
     "Latitude": "40.86",
     "Longitude": "28.25",
-    "Depth/km": "17",
+    "DepthKm": "17",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -2574,7 +2574,7 @@
     "Time": "2019-09-26T11:26:36.4Z",
     "Latitude": "40.86",
     "Longitude": "28.28",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "4.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -2584,7 +2584,7 @@
     "Time": "2019-09-26T11:19:55.0Z",
     "Latitude": "40.89",
     "Longitude": "28.27",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -2594,7 +2594,7 @@
     "Time": "2019-09-26T11:11:34.5Z",
     "Latitude": "40.86",
     "Longitude": "28.24",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2604,7 +2604,7 @@
     "Time": "2019-09-26T11:08:59.1Z",
     "Latitude": "40.84",
     "Longitude": "28.27",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -2614,7 +2614,7 @@
     "Time": "2019-09-26T11:04:03.4Z",
     "Latitude": "40.8",
     "Longitude": "28.23",
-    "Depth/km": "14",
+    "DepthKm": "14",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -2624,7 +2624,7 @@
     "Time": "2019-09-26T10:59:25.1Z",
     "Latitude": "40.87",
     "Longitude": "28.19",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "mw",
     "Magnitude": "5.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -2634,7 +2634,7 @@
     "Time": "2019-09-26T09:00:16.2Z",
     "Latitude": "40.85",
     "Longitude": "28.21",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2644,7 +2644,7 @@
     "Time": "2019-09-26T07:32:07.0Z",
     "Latitude": "40.88",
     "Longitude": "28.22",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "ml",
     "Magnitude": "3.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -2654,7 +2654,7 @@
     "Time": "2019-09-25T13:07:59.0Z",
     "Latitude": "40.88",
     "Longitude": "28.2",
-    "Depth/km": "14",
+    "DepthKm": "14",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2664,7 +2664,7 @@
     "Time": "2019-09-24T11:19:15.9Z",
     "Latitude": "40.87",
     "Longitude": "28.25",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "WESTERN TURKEY"
@@ -2674,7 +2674,7 @@
     "Time": "2019-09-24T08:57:22.1Z",
     "Latitude": "40.86",
     "Longitude": "28.19",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -2684,7 +2684,7 @@
     "Time": "2019-09-24T08:00:22.3Z",
     "Latitude": "40.88",
     "Longitude": "28.21",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "mb",
     "Magnitude": "4.9",
     "EventLocationName": "WESTERN TURKEY"
@@ -2694,7 +2694,7 @@
     "Time": "2019-09-24T07:30:49.1Z",
     "Latitude": "40.87",
     "Longitude": "28.21",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -2704,7 +2704,7 @@
     "Time": "2019-09-22T21:17:38.9Z",
     "Latitude": "38.11",
     "Longitude": "26.8",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2714,7 +2714,7 @@
     "Time": "2019-09-22T12:13:21.4Z",
     "Latitude": "41.6",
     "Longitude": "25.33",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "3.6",
     "EventLocationName": "BULGARIA"
@@ -2724,7 +2724,7 @@
     "Time": "2019-09-21T09:34:23.1Z",
     "Latitude": "38.2",
     "Longitude": "26.34",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2734,7 +2734,7 @@
     "Time": "2019-09-19T06:31:18.0Z",
     "Latitude": "38.23",
     "Longitude": "26.64",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2744,7 +2744,7 @@
     "Time": "2019-09-16T19:44:42.5Z",
     "Latitude": "38.21",
     "Longitude": "26.32",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2754,7 +2754,7 @@
     "Time": "2019-09-14T12:02:13.0Z",
     "Latitude": "39.62",
     "Longitude": "26.42",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2764,7 +2764,7 @@
     "Time": "2019-09-12T06:17:07.4Z",
     "Latitude": "39.84",
     "Longitude": "28.72",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -2774,7 +2774,7 @@
     "Time": "2019-09-10T16:10:50.8Z",
     "Latitude": "39.32",
     "Longitude": "25.52",
-    "Depth/km": "16",
+    "DepthKm": "16",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "AEGEAN SEA"
@@ -2784,7 +2784,7 @@
     "Time": "2019-09-08T12:19:22.5Z",
     "Latitude": "38",
     "Longitude": "26.85",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2794,7 +2794,7 @@
     "Time": "2019-09-04T06:18:53.8Z",
     "Latitude": "38.89",
     "Longitude": "26.16",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2804,7 +2804,7 @@
     "Time": "2019-09-03T12:13:41.4Z",
     "Latitude": "38.72",
     "Longitude": "26.53",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.6",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2814,7 +2814,7 @@
     "Time": "2019-09-03T07:17:31.8Z",
     "Latitude": "38.72",
     "Longitude": "26.56",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2824,7 +2824,7 @@
     "Time": "2019-09-03T06:43:24.2Z",
     "Latitude": "38.75",
     "Longitude": "26.52",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.7",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2834,7 +2834,7 @@
     "Time": "2019-09-01T21:12:47.0Z",
     "Latitude": "39.3",
     "Longitude": "25.89",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "AEGEAN SEA"
@@ -2844,7 +2844,7 @@
     "Time": "2019-08-23T06:58:22.2Z",
     "Latitude": "40.32",
     "Longitude": "27.11",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.6",
     "EventLocationName": "WESTERN TURKEY"
@@ -2854,7 +2854,7 @@
     "Time": "2019-08-20T23:36:07.7Z",
     "Latitude": "40.77",
     "Longitude": "27.4",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -2864,7 +2864,7 @@
     "Time": "2019-08-15T02:52:24.7Z",
     "Latitude": "38",
     "Longitude": "26.88",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2874,7 +2874,7 @@
     "Time": "2019-08-12T15:32:25.2Z",
     "Latitude": "39.45",
     "Longitude": "25.87",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "AEGEAN SEA"
@@ -2884,7 +2884,7 @@
     "Time": "2019-08-12T14:26:42.8Z",
     "Latitude": "39.46",
     "Longitude": "25.83",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "AEGEAN SEA"
@@ -2894,7 +2894,7 @@
     "Time": "2019-08-10T06:39:39.1Z",
     "Latitude": "41.89",
     "Longitude": "26.51",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "BULGARIA-GREECE-TURKEY BORDER RG"
@@ -2904,7 +2904,7 @@
     "Time": "2019-08-08T11:02:29.7Z",
     "Latitude": "38.06",
     "Longitude": "26.9",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2914,7 +2914,7 @@
     "Time": "2019-08-08T09:44:05.8Z",
     "Latitude": "38.02",
     "Longitude": "26.92",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2924,7 +2924,7 @@
     "Time": "2019-08-08T08:47:34.7Z",
     "Latitude": "38.03",
     "Longitude": "26.87",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2934,7 +2934,7 @@
     "Time": "2019-08-08T08:39:08.2Z",
     "Latitude": "38.02",
     "Longitude": "26.9",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "mb",
     "Magnitude": "4.6",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -2944,7 +2944,7 @@
     "Time": "2019-08-07T06:02:30.9Z",
     "Latitude": "39.28",
     "Longitude": "27.72",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.6",
     "EventLocationName": "WESTERN TURKEY"
@@ -2954,7 +2954,7 @@
     "Time": "2019-08-07T03:02:22.6Z",
     "Latitude": "39.3",
     "Longitude": "27.7",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -2964,7 +2964,7 @@
     "Time": "2019-08-06T23:04:41.7Z",
     "Latitude": "38.85",
     "Longitude": "25.9",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "AEGEAN SEA"
@@ -2974,7 +2974,7 @@
     "Time": "2019-08-04T13:46:25.2Z",
     "Latitude": "38.47",
     "Longitude": "27.18",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -2984,7 +2984,7 @@
     "Time": "2019-07-31T11:34:35.9Z",
     "Latitude": "39.81",
     "Longitude": "27.23",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.9",
     "EventLocationName": "WESTERN TURKEY"
@@ -2994,7 +2994,7 @@
     "Time": "2019-07-30T22:28:48.4Z",
     "Latitude": "38.86",
     "Longitude": "26.16",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -3004,7 +3004,7 @@
     "Time": "2019-07-28T21:37:49.5Z",
     "Latitude": "39.48",
     "Longitude": "25.8",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "AEGEAN SEA"
@@ -3014,7 +3014,7 @@
     "Time": "2019-07-19T13:49:27.8Z",
     "Latitude": "40.44",
     "Longitude": "28.06",
-    "Depth/km": "12",
+    "DepthKm": "12",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -3024,7 +3024,7 @@
     "Time": "2019-07-17T17:18:11.7Z",
     "Latitude": "39",
     "Longitude": "27.63",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -3034,7 +3034,7 @@
     "Time": "2019-07-11T20:18:56.1Z",
     "Latitude": "40.62",
     "Longitude": "28.96",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -3044,7 +3044,7 @@
     "Time": "2019-07-10T23:23:47.2Z",
     "Latitude": "38.96",
     "Longitude": "26.02",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.6",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -3054,7 +3054,7 @@
     "Time": "2019-06-29T01:05:32.0Z",
     "Latitude": "39.72",
     "Longitude": "25.58",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "AEGEAN SEA"
@@ -3064,7 +3064,7 @@
     "Time": "2019-06-21T03:41:23.2Z",
     "Latitude": "40.83",
     "Longitude": "27.95",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -3074,7 +3074,7 @@
     "Time": "2019-06-17T04:47:30.5Z",
     "Latitude": "39.68",
     "Longitude": "26.47",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "4.1",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -3084,7 +3084,7 @@
     "Time": "2019-06-14T15:11:43.9Z",
     "Latitude": "40.75",
     "Longitude": "29.1",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -3094,7 +3094,7 @@
     "Time": "2019-06-14T10:00:08.3Z",
     "Latitude": "39.16",
     "Longitude": "27.6",
-    "Depth/km": "9",
+    "DepthKm": "9",
     "MagType": "mw",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -3104,7 +3104,7 @@
     "Time": "2019-06-13T19:16:18.0Z",
     "Latitude": "39.71",
     "Longitude": "25.6",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "AEGEAN SEA"
@@ -3114,7 +3114,7 @@
     "Time": "2019-06-12T22:44:50.8Z",
     "Latitude": "40.72",
     "Longitude": "27.44",
-    "Depth/km": "15",
+    "DepthKm": "15",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -3124,7 +3124,7 @@
     "Time": "2019-06-09T05:45:19.1Z",
     "Latitude": "38.57",
     "Longitude": "30.57",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -3134,7 +3134,7 @@
     "Time": "2019-06-07T19:57:44.3Z",
     "Latitude": "39.16",
     "Longitude": "27.57",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -3144,7 +3144,7 @@
     "Time": "2019-06-07T07:29:59.8Z",
     "Latitude": "38.68",
     "Longitude": "27.93",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -3154,7 +3154,7 @@
     "Time": "2019-06-06T17:14:18.9Z",
     "Latitude": "39.72",
     "Longitude": "25.58",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.6",
     "EventLocationName": "AEGEAN SEA"
@@ -3164,7 +3164,7 @@
     "Time": "2019-06-06T16:05:45.3Z",
     "Latitude": "39.15",
     "Longitude": "27.6",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -3174,7 +3174,7 @@
     "Time": "2019-06-06T03:45:48.6Z",
     "Latitude": "41.43",
     "Longitude": "27.99",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -3184,7 +3184,7 @@
     "Time": "2019-06-06T03:24:12.7Z",
     "Latitude": "39.24",
     "Longitude": "25.56",
-    "Depth/km": "15",
+    "DepthKm": "15",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "AEGEAN SEA"
@@ -3194,7 +3194,7 @@
     "Time": "2019-06-03T18:13:08.1Z",
     "Latitude": "39.29",
     "Longitude": "27.71",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -3204,7 +3204,7 @@
     "Time": "2019-06-02T13:08:47.7Z",
     "Latitude": "40.73",
     "Longitude": "30.75",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "mb",
     "Magnitude": "4.6",
     "EventLocationName": "WESTERN TURKEY"
@@ -3214,7 +3214,7 @@
     "Time": "2019-05-26T02:38:55.2Z",
     "Latitude": "42.41",
     "Longitude": "31.07",
-    "Depth/km": "40",
+    "DepthKm": "40",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "BLACK SEA"
@@ -3224,7 +3224,7 @@
     "Time": "2019-05-25T12:13:35.2Z",
     "Latitude": "40.58",
     "Longitude": "27.13",
-    "Depth/km": "18",
+    "DepthKm": "18",
     "MagType": "mb",
     "Magnitude": "4.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -3234,7 +3234,7 @@
     "Time": "2019-05-24T20:34:44.0Z",
     "Latitude": "38.85",
     "Longitude": "26.13",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -3244,7 +3244,7 @@
     "Time": "2019-05-21T13:17:38.1Z",
     "Latitude": "40.75",
     "Longitude": "27.39",
-    "Depth/km": "14",
+    "DepthKm": "14",
     "MagType": "ml",
     "Magnitude": "3.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -3254,7 +3254,7 @@
     "Time": "2019-05-21T05:24:35.6Z",
     "Latitude": "39.11",
     "Longitude": "27.65",
-    "Depth/km": "19",
+    "DepthKm": "19",
     "MagType": "ml",
     "Magnitude": "3.3",
     "EventLocationName": "WESTERN TURKEY"
@@ -3264,7 +3264,7 @@
     "Time": "2019-05-21T05:23:34.5Z",
     "Latitude": "39.16",
     "Longitude": "27.59",
-    "Depth/km": "6",
+    "DepthKm": "6",
     "MagType": "ml",
     "Magnitude": "3.7",
     "EventLocationName": "WESTERN TURKEY"
@@ -3274,7 +3274,7 @@
     "Time": "2019-05-20T20:45:25.2Z",
     "Latitude": "39.09",
     "Longitude": "30.17",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -3284,7 +3284,7 @@
     "Time": "2019-05-19T18:28:08.9Z",
     "Latitude": "39.32",
     "Longitude": "25.54",
-    "Depth/km": "16",
+    "DepthKm": "16",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "AEGEAN SEA"
@@ -3294,7 +3294,7 @@
     "Time": "2019-05-19T06:44:00.2Z",
     "Latitude": "38.92",
     "Longitude": "26.13",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -3304,7 +3304,7 @@
     "Time": "2019-05-18T10:06:30.4Z",
     "Latitude": "38.81",
     "Longitude": "27.51",
-    "Depth/km": "14",
+    "DepthKm": "14",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "WESTERN TURKEY"
@@ -3314,7 +3314,7 @@
     "Time": "2019-05-12T22:24:09.0Z",
     "Latitude": "39.31",
     "Longitude": "27.93",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "mb",
     "Magnitude": "4.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -3324,7 +3324,7 @@
     "Time": "2019-05-12T22:23:08.9Z",
     "Latitude": "39.32",
     "Longitude": "27.92",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "mb",
     "Magnitude": "4.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -3334,7 +3334,7 @@
     "Time": "2019-05-11T06:46:02.2Z",
     "Latitude": "39.72",
     "Longitude": "25.59",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "AEGEAN SEA"
@@ -3344,7 +3344,7 @@
     "Time": "2019-05-10T16:53:12.5Z",
     "Latitude": "39.02",
     "Longitude": "26.04",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -3354,7 +3354,7 @@
     "Time": "2019-05-09T16:05:29.1Z",
     "Latitude": "40.85",
     "Longitude": "28.14",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "3.5",
     "EventLocationName": "WESTERN TURKEY"
@@ -3364,7 +3364,7 @@
     "Time": "2019-05-09T15:56:24.1Z",
     "Latitude": "40.85",
     "Longitude": "28.14",
-    "Depth/km": "15",
+    "DepthKm": "15",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"
@@ -3374,7 +3374,7 @@
     "Time": "2019-05-08T19:51:27.7Z",
     "Latitude": "43.02",
     "Longitude": "31.38",
-    "Depth/km": "40",
+    "DepthKm": "40",
     "MagType": "ml",
     "Magnitude": "4",
     "EventLocationName": "BLACK SEA"
@@ -3384,7 +3384,7 @@
     "Time": "2019-05-08T10:18:13.4Z",
     "Latitude": "39.33",
     "Longitude": "27.74",
-    "Depth/km": "3",
+    "DepthKm": "3",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "WESTERN TURKEY"
@@ -3394,7 +3394,7 @@
     "Time": "2019-05-08T02:50:40.1Z",
     "Latitude": "39.3",
     "Longitude": "27.7",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.6",
     "EventLocationName": "WESTERN TURKEY"
@@ -3404,7 +3404,7 @@
     "Time": "2019-05-03T18:04:49.2Z",
     "Latitude": "39.01",
     "Longitude": "25.99",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "AEGEAN SEA"
@@ -3414,7 +3414,7 @@
     "Time": "2019-04-30T18:22:35.7Z",
     "Latitude": "43.11",
     "Longitude": "27.5",
-    "Depth/km": "2",
+    "DepthKm": "2",
     "MagType": "ml",
     "Magnitude": "3.6",
     "EventLocationName": "BULGARIA"
@@ -3424,7 +3424,7 @@
     "Time": "2019-04-30T14:52:25.1Z",
     "Latitude": "39.07",
     "Longitude": "26.54",
-    "Depth/km": "13",
+    "DepthKm": "13",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -3434,7 +3434,7 @@
     "Time": "2019-04-30T06:51:27.5Z",
     "Latitude": "39.41",
     "Longitude": "26.3",
-    "Depth/km": "8",
+    "DepthKm": "8",
     "MagType": "ml",
     "Magnitude": "3.1",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -3444,7 +3444,7 @@
     "Time": "2019-04-29T18:39:50.8Z",
     "Latitude": "39.42",
     "Longitude": "26.36",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "3.8",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -3454,7 +3454,7 @@
     "Time": "2019-04-29T18:02:43.3Z",
     "Latitude": "39.38",
     "Longitude": "26.29",
-    "Depth/km": "10",
+    "DepthKm": "10",
     "MagType": "ml",
     "Magnitude": "4.4",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -3464,7 +3464,7 @@
     "Time": "2019-04-28T14:49:25.1Z",
     "Latitude": "38.69",
     "Longitude": "26.9",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.4",
     "EventLocationName": "NEAR THE COAST OF WESTERN TURKEY"
@@ -3474,7 +3474,7 @@
     "Time": "2019-04-12T13:03:47.8Z",
     "Latitude": "40.69",
     "Longitude": "30.61",
-    "Depth/km": "7",
+    "DepthKm": "7",
     "MagType": "ml",
     "Magnitude": "4",
     "EventLocationName": "WESTERN TURKEY"
@@ -3484,7 +3484,7 @@
     "Time": "2019-04-02T16:07:43.6Z",
     "Latitude": "38.59",
     "Longitude": "31.14",
-    "Depth/km": "5",
+    "DepthKm": "5",
     "MagType": "ml",
     "Magnitude": "3.2",
     "EventLocationName": "WESTERN TURKEY"

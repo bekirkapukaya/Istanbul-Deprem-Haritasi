@@ -8,7 +8,7 @@ const apiData = GeoJSON.parse(data, {
     'Time',
     'Latitude',
     'Longitude',
-    'Depth/km',
+    'DepthKm',
     'MagType',
     'Magnitude',
     'EventLocationName',
