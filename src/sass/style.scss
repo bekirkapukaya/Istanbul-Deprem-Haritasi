@@ -1,6 +1,6 @@
 .map-container {
   position: absolute;
-  top: 0;
+  top: 5%;
   right: 0;
   left: 0;
   bottom: 0;
@@ -13,8 +13,8 @@
   font: 15px/24px monospace;
   z-index: 1;
   position: absolute;
-  top: 0;
-  left: 0;
+  bottom: 10px;
+  right: 0;
   margin: 12px;
   border-radius: 4px;
 }
@@ -22,4 +22,4 @@
 .mapboxgl-popup {
   max-width: 400px;
   font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-  }
+}
